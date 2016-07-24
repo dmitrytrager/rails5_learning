@@ -45,4 +45,4 @@ linters:
     enabled: true
 
   TrailingWhitespace:
-enabled: true
+    enabled: true

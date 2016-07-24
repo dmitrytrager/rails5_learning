@@ -50,4 +50,4 @@ Style/FrozenStringLiteralComment:
   Enabled: false
 
 Style/StringMethods:
-Enabled: true
+  Enabled: true
